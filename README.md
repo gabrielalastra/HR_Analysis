@@ -7,6 +7,7 @@
 <p>She would also like to know if factors like age, years at the company and income play a part in determining if people will leave or not.</p>
 <h3>To achive this goals, this project must to contain</h3>
   <li>Explore the dataset, all the columns that could be usefull to analysing the employees leaving</li>
+  <li>Decision Tree from Machine Learning to measure the information importance</li>
   <li>Visualize the Age group of Employee and how many of each group leaved</li>
   <li>Visualize the Monthly Income by Age Group</li>
   <li>Employee count by Income</li>
