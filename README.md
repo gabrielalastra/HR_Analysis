@@ -13,7 +13,7 @@
   <li>Employee count by Income</li>
   <li>Visualize the Total Average of Monthly Income and compare with the Average of Monthly Income by Age Group</li>
   <li>Employee count by Years working at the company and including the attriton</li>
-  <li>Available on <a href='https://public.tableau.com/views/HR_AnalysisReport_CompanyX/HR_Analysis?:language=pt-BR&:display_count=n&:origin=viz_share_link'> <img align="center" alt="Gabb-tableau" height="45" width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> Tableau</a></li>
+  <li>Available on <a href='https://public.tableau.com/shared/M9SGNZXQB?:display_count=n&:origin=viz_share_link'> <img align="center" alt="Gabb-tableau" height="45" width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> Tableau</a></li>
   
   
   <h2 align='center'>The Results Briefing</h2>
@@ -26,5 +26,6 @@
   <img height=200 align='right'src='https://github.com/gabrielalastra/HR_Analytics/blob/main/graph/ImportanceScore.png'/>
   <li>Total Working Years </li><li>Stock option Level </li><li> Age </li><li> Monthly Income.</p>
   <p>Although the Decision Tree accuracy is not bad, it is not enough to analyze the situation, patterns and possibilities for improvement.</p><p> So, to help my team and the decision makers, I developed a Story on my Tableau page</p>
-  
-  
+<div align='right'>
+<a href = "https://public.tableau.com/shared/M9SGNZXQB?:display_count=n&:origin=viz_share_link"><img height=25 src="https://img.shields.io/badge/my%20page%20on-TABLEAU-blue"></a>
+</div>  
