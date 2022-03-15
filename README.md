@@ -23,8 +23,8 @@
 
 <br><br><br><br><br><br><br><br><br><br><br>
 <p>The Decision Tree highlights other sources:</p>
-  <img height=200 align='right'src='https://github.com/gabrielalastra/HR_Analytics/blob/main/graph/DecisionTree.png?raw=true'/>
+  <img height=200 align='right'src='https://github.com/gabrielalastra/HR_Analytics/blob/main/graph/ImportanceScore.png'/>
   <li>Total Working Years </li><li>Stock option Level </li><li> Age </li><li> Monthly Income.</p>
-  <p>Although the Decision Tree accuracy is not bad, it is not enough to analyze the situation, patterns and possibilities for improvement.</p><p> So, to help my team and the decision makers, I developed this Story on Tableau</p>
+  <p>Although the Decision Tree accuracy is not bad, it is not enough to analyze the situation, patterns and possibilities for improvement.</p><p> So, to help my team and the decision makers, I developed a Story on my Tableau page</p>
   
   
